@@ -1,0 +1,1 @@
+in this lab submission i learnt how to create a github profile and also a new repository and how to clone it in the terminal.I also gained some experience with basic html semantics of building a basic webpage,overall the lab was basic and focused on structuring a website and publishing it to the public.
